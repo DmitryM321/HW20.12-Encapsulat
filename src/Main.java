@@ -17,7 +17,6 @@ public class Main {
         System.out.println(audi);
         System.out.println(kia);
         System.out.println(hyundai); */
-
        lada.changeTyre(5);
        System.out.println(lada);
        System.out.println(insurance);

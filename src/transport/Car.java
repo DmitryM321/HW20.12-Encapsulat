@@ -78,7 +78,6 @@ public class Car {
     public String getBrand() {
         return brand;
     }
-
     public String getModel() {
         return model;
     }
